@@ -112,10 +112,7 @@ git remote
 4. Ejecución del sitio con Live Server
 5. Análisis de la estructura del proyecto
 6. Personalización del sitio web
-7. Creación de documentación Markdown
-8. Creación de repositorio remoto en GitHub
-9. Conexión del proyecto local con GitHub
-10. Subida de cambios al repositorio remoto
+
 
 ---
 
@@ -139,12 +136,13 @@ Durante esta práctica se fortalecieron conocimientos relacionados con:
 Las evidencias generadas durante la práctica incluyen:
 
 1. Captura del repositorio clonado
-2. Captura del sitio original
+
 3. Captura del sitio personalizado
+
 4. Captura del archivo README_ESTUDIANTE.md
-5. Captura de comandos Git utilizados
+
 6. URL del repositorio GitHub
-7. URL pública del sitio web
+https://github.com/PaolaLpez/Portfolio-Website.git
 
 ---
 
@@ -155,5 +153,16 @@ La práctica permitió comprender el flujo básico de trabajo utilizado en entor
 La personalización del portafolio facilitó la aplicación de conocimientos relacionados con HTML, CSS y JavaScript, fortaleciendo habilidades técnicas importantes para el desarrollo profesional dentro del área de software y tecnologías web.
 
 ---
+# Evidencias
 
-![alt text](image.png)
+## Captura 1
+![Captura del proyecto](image.png)
+
+## Captura 2
+![Sitio personalizado](image-1.png)
+
+## Captura 3
+![README](image-2.png)
+
+## Captura 4
+![Comandos Git](image-3.png)
