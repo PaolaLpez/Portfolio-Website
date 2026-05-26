@@ -166,3 +166,6 @@ La personalización del portafolio facilitó la aplicación de conocimientos rel
 
 ## Captura 4
 ![Comandos Git](image-3.png)
+
+## Captura 5
+![Comandos Git](image-4.png)
